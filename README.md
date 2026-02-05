@@ -4,17 +4,14 @@
 
 Check out the live demo [here](https://fafa987.github.io/portfolio/).
 
-## Features
-
-- **Custom Web Development:** I design and develop custom websites tailored to your unique business needs.
-- **SEO Strategy and Implementation:** Boost your website's visibility in search engine results with my comprehensive SEO services.
-- **Wordpress Site Desing and Manegement:** Leverage the power of WordPress with my expert design and management services. 
-
 ## Skills
 
-- **HTML5:** Semantic HTML for easy navigation and SEO optimization.
-- **CSS3:** Flexbox, CSS Grid, and responsive media queries.
-- **JavaScript:** Interactive features such as project filtering and form validation.
+- **frontend:** HTML, CSS, JavaScript, React, Bootstrap
+- **Backend:** Java, Spring Boot, RESTful APIs, JavaEE
+- **Database:** MySQL, H2, SQL/RDBMS
+- **Tools:** IntelliJ IDEA, VS Code, Postman, Git/GitHub
+- **Design:** Design Patterns, Photoshop, Figma
+- **Other:** WordPress, Yoast SEO
 
 ## My last website
 
